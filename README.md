@@ -4,6 +4,13 @@
 
 The objective of this project is to develop a robust predictive model that accurately determines whether a person, identified by their PassengerId, has been transported to another dimension or not. The dataset contains records of individuals and their associated features, which will be used for data analysis and building predictive models.
 
+# Directory Structure
+
+- Final_Submission.ipynb: Contains the final code of the project.
+- train.csv: Contains the training data used in the project.
+- test.csv: Contains the testing data used to make final predictions.
+- /Submission Files: Contains 8 different files pertaining to different models with/without PCA.
+
 # Dependencies
 
 - pandas
