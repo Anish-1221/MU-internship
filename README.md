@@ -1,4 +1,4 @@
-# MU-internship
+# Spaceship Andromeda
 
 # Description
 
